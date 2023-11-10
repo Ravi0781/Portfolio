@@ -7,7 +7,7 @@ function Navbar() {
                 <div className="container-xxl">
                     <a href="#" className="navbar-brand">
                         <span className="fw-bold text-light">
-                            <i className="bi bi-person-circle"></i> ASG - PORTFOLIO
+                            <i className="bi bi-person-circle"></i> RRS - PORTFOLIO
                         </span>
                     </a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
