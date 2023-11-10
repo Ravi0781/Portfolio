@@ -17,7 +17,7 @@ export function Home(){
                     <div className="col-lg-10" id="back">
                         <img src={abs} className="img-fluid" alt=""></img>
                         <div className="text-center text-light" id="back-text">
-                            <h1>Hi! There, I am Adith Sagar Gowda</h1>
+                            <h1>Hi! There, I am Ravi Raj Sinha</h1>
                             <p>This is my portfolio website, where you can find all my works and projects</p>
                             <p>Go ahead and Explore <i className="bi bi-search"></i></p>
                         </div>
@@ -35,23 +35,23 @@ export function About(){
                 <div class="row justify-content-center align-item-center">
                     <div class="col-md-5 text-center text-md-start border border-secondary" style={{backgroundColor: "rgb(214, 213, 213)"}}>
                         <h1>
-                            <div class="display-4">Adith Sagar Gowda</div>
+                            <div class="display-4">Ravi Raj Sinha</div>
                             <div class="lead text-muted"><i class="bi bi-file-earmark-person"></i> A Learner | ML Enthusiast</div>
                         </h1>
                         <hr />
                         <div class="contact">
-                            <p class="lead pt-0">Im currently learning Machine Learning and MERN-Stack</p>
+                            <p class="lead pt-0">Im currently learning Flutter and MERN-Stack</p>
                             <span class="lead"><i class="bi bi-envelope-at-fill"></i> How to reach me : 
-                                <a href="mailto:adithgowda06@gmail.com" class="btn btn-sm btn-primary fw-bold">Email</a>
+                                <a href="mailto:raviraj.sinha77@gmail.com" class="btn btn-sm btn-primary fw-bold">Email</a>
                             </span>
                             <br /><br />
-                            <span class="lead"><i class="bi bi-geo-fill"></i> Bengaluru, Karnataka</span>
+                            <span class="lead"><i class="bi bi-geo-fill"></i> Patna, Bihar</span>
                             <br /><br />
                             <span class="lead fw-900"><i class="bi bi-at"></i> Connect with me : </span>
                             <p class="btn-group">
-                                <a href="https://www.linkedin.com/in/adith-sagar-gowda-b83148228/" target="_blank" class="btn btn-sm btn-success fw-bold"><i class="bi bi-linkedin"></i> Linked In</a>
-                                <a href="https://github.com/Adith-gowda" target="_blank" class="btn btn-warning btn-sm fw-bold"><i class="bi bi-github"></i> GitHub</a>
-                                <a href="https://leetcode.com/adipycoder/" target="_blank" class="btn btn-sm btn-danger fw-bold">LeetCode</a>
+                                <a href="https://www.linkedin.com/in/ravirajsinha/" target="_blank" class="btn btn-sm btn-success fw-bold"><i class="bi bi-linkedin"></i> Linked In</a>
+                                <a href="https://github.com/Ravi0781" target="_blank" class="btn btn-warning btn-sm fw-bold"><i class="bi bi-github"></i> GitHub</a>
+                                <a href="https://leetcode.com/Ravi0909/" target="_blank" class="btn btn-sm btn-danger fw-bold">LeetCode</a>
                             </p>
 
                             <div class="d-block mt-3 btn btn-secondary">
@@ -85,7 +85,7 @@ export function Info(){
                             <div class="card-body text-center py-4">
                                 <h5 class="card-title">All of my works in this domain</h5>
                                 <p class="card-text mx-3 my-1 text-muted d-none d-lg-block">MERN stack is a collection of technologies that enables faster application development.The main purpose of using MERN stack is to develop apps using JavaScript only.</p>
-                                <a href="https://github.com/Adith-gowda?tab=repositories" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
+                                <a href="https://github.com/Ravi0781?tab=repositories" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@ export function Info(){
                             <div class="card-body text-center py-4">
                                 <h5 class="card-title">Problems solved in LeetCode</h5>
                                 <p class="card-text mx-3 my-1 text-muted d-none d-lg-block">LeetCode is an online platform offering coding challenges and interview preparation resources for software engineers and developers. The service provides coding and algorithmic problems intended for users to practice coding.</p>
-                                <a href="https://github.com/Adith-gowda/LeetCodeSolutions" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
+                                <a href="https://github.com/Ravi0781/LeetCode-Solutions" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
                             </div>
                         </div>
                     </div>
@@ -105,7 +105,7 @@ export function Info(){
                             <div class="card-body text-center py-4">
                                 <h5 class="card-title">All of my works in this domain</h5>
                                 <p class="card-text mx-3 my-1 text-muted d-none d-lg-block">Machine learning is an important component of the growing field of data science. Machine learning algorithms are typically created using frameworks that accelerate solution development.</p>
-                                <a href="https://github.com/Adith-gowda?tab=repositories" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
+                                <a href="https://github.com/Ravi0781?tab=repositories" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
                             </div>
                         </div>
                     </div>
